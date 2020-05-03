@@ -120,7 +120,7 @@ drawAction.perform();
 
 WebElement submit=driver.findElement(By.xpath("//button[@name='Next']"));
 submit.click();
-
+//Next
 
 }
 }
